@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "angular",
+        "host": "http://localhost:52146/angular",
+        "route": "^/angular",
+        "filename": "main.js"
+    },
+    {
+        "name": "menu",
+        "host": "http://localhost:8082/",
+        "route": "/",
+        "filename": "js/app.js"
+
+    }
+]
