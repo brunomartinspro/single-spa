@@ -44,3 +44,5 @@ It includes 3 applications:
 3. Click on vue - triggers the error in the console
 4. Click on Welcome - angular router still works
 5. Click on Ocean - angular router still works
+
+![Error](./docs/img/error.gif)
